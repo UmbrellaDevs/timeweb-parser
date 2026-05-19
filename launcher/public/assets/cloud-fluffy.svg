@@ -1,0 +1,9 @@
+<!-- Fluffy cloud - inspired by unDraw/OpenClipart style, CC0/Public Domain -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" fill="rgba(255,255,255,0.2)">
+  <ellipse cx="128" cy="180" rx="80" ry="50" opacity="0.95"/>
+  <ellipse cx="256" cy="120" rx="100" ry="70" opacity="0.98"/>
+  <ellipse cx="384" cy="160" rx="85" ry="55" opacity="0.95"/>
+  <ellipse cx="256" cy="200" rx="130" ry="60" opacity="0.9"/>
+  <ellipse cx="180" cy="170" rx="65" ry="45" opacity="0.92"/>
+  <ellipse cx="332" cy="175" rx="70" ry="48" opacity="0.92"/>
+</svg>
